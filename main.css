@@ -1,4 +1,12 @@
+body{
+  background-position: center center;
+  background-repeat: repeat;
+  background-size: cover;
+  height: 100px;
+}
 h1{
+    font-size: 2em;
+    line-height: 1.25;
     width: auto;
     margin: auto;
     text-align: center;
@@ -7,8 +15,11 @@ h1{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width: 50%;
 }
 p{
+  font-family: Arial, sans-serif;
+  font-size: 1em;
   width: auto;
   margin: auto;
   text-align: center;
